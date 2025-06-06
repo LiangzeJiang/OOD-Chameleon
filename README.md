@@ -9,7 +9,7 @@ This repo contains the official code for the *ICML 2025* paper "*OOD-Chameleon: 
 ## Summary
 
 <p align="center">
-<img src="assets/teaser.jpg" width=100% height=100%
+<img src="assets/teaser.png" width=100% height=100%
 class="center">
 </p>
 
